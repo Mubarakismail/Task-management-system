@@ -10,7 +10,7 @@ class Task extends Model
         'task_title',
         'task_desc',
         'start_time',
-        'end_time',
+        'end_time'
     ];
 
     public function users()
